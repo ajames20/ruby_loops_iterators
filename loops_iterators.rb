@@ -1,25 +1,25 @@
 =begin
-exercise
+exercise 1:
 
 =end
 puts "\n"
 
 =begin
-exercise
-
-=end
-puts "\n"
-
-
-=begin
-exercise
+exercise 2:
 
 =end
 puts "\n"
 
 
 =begin
-exercise
+exercise 3:
+
+=end
+puts "\n"
+
+
+=begin
+exercise 4:
 
 =end
 puts "\n"
