@@ -52,7 +52,9 @@ Write a method that counts down to zero using recursion.
 
 def count_down(start)
   puts start
-  if start > 1
+  if start <= 0
+    puts start
+  else
     count_down(start - 1)
   end
 end
