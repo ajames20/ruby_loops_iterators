@@ -61,6 +61,7 @@ end
 
 count_down(10)
 count_down(30)
+count_down(-3)
 puts "Done!"
 
 
